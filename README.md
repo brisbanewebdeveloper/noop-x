@@ -46,13 +46,13 @@
 
 ## noop-x
 
-Boilerplate for standard modules.
+This method returns undefined.
 
 <a name="exp_module_noop-x--module.exports"></a>
 
-### `module.exports` ⇒ <code>\*</code> ⏏
+### `module.exports` ⇒ <code>Function</code> ⏏
 
-This method is just a placeholder.
+This method returns undefined.
 
 **Kind**: Exported member  
 **Returns**: <code>undefined</code> - Always undefined.  
