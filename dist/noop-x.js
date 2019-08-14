@@ -2,13 +2,13 @@
 {
   "author": "Graham Fairweather",
   "copywrite": "Copyright (c) 2019-present",
-  "date": "2019-08-14T13:28:39.168Z",
+  "date": "2019-08-14T14:20:33.707Z",
   "describe": "",
   "description": "This method returns undefined.",
   "file": "noop-x.js",
   "hash": "9cf76737eb9b410e24cf",
   "license": "MIT",
-  "version": "1.1.0"
+  "version": "1.2.0"
 }
 */
 (function webpackUniversalModuleDefinition(root, factory) {
