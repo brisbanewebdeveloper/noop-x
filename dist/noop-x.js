@@ -2,7 +2,7 @@
 {
   "author": "Graham Fairweather",
   "copywrite": "Copyright (c) 2019-present",
-  "date": "2019-08-20T12:26:11.958Z",
+  "date": "2019-08-27T19:17:13.304Z",
   "describe": "",
   "description": "This method returns undefined.",
   "file": "noop-x.js",
